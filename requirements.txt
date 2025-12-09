@@ -1,0 +1,16 @@
+# Discord bot
+discord.py==2.6.0
+
+# Web API
+fastapi==0.111.1
+uvicorn==0.23.1
+pydantic==1.10.12
+sqlalchemy==2.1.1
+databases==0.6.3
+asyncpg==1.37.0
+
+# WebSockets
+python-socketio==5.8.0
+
+# Utility
+requests==2.31.0
